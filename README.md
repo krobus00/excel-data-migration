@@ -1,0 +1,8 @@
+# EXCEL DATA MIGRATION
+
+# ENV
+
+```bash
+PORT=3000
+DB_PORT=6603
+```
